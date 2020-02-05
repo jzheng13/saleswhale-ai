@@ -11,10 +11,7 @@ be downloaded [here](http://snap.stanford.edu/data/amazon/productGraph/categoryF
 
 The submission is written in **Python 3.7**. 
 
-The following Python libraries are required:
-- `matplotlib`
-
-To install these packages, run
+To install dependencies, run
 ``` sh
 pip install requirements.txt
 ```
